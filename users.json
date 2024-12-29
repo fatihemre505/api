@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "fatih emre aky\u00fcz",
+      "email": "fatihemre505@gmail.com",
+      "age": 42
+    },
+    {
+      "id": 2,
+      "name": "matrix",
+      "email": "admin@admin",
+      "age": 55
+    },
+    {
+      "id": 3,
+      "name": "mehmet aky\u00fcz",
+      "email": "mehmet@gmail.com",
+      "age": 65
+    }
+  ]
+}
